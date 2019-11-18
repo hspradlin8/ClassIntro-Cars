@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.deps.json
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.dll
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.pdb
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.dll
+/Users/Heidi/workspace/CSharpDemos/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.pdb
